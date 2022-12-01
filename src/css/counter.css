@@ -1,0 +1,26 @@
+.Counter p {
+  font-size: 5em;
+  font-family: "Courier New", Courier, monospace;
+}
+
+.Counter .btns button {
+  width: 100px;
+  height: 100px;
+  font-size: 5em;
+}
+
+input {
+  height: 3em;
+  margin-top: 1em;
+  font-size: 2em;
+  text-align: center;
+}
+
+.other-btns {
+  margin-top: 1em;
+}
+
+.other-btns button {
+  padding: 1em;
+  font-size: 1.4em;
+}
